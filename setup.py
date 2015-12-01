@@ -23,6 +23,7 @@ setup(
     author='',
     author_email='',
     description='',
+    download_url='https://github.com/kivy-garden/{}/archive/master.zip'.format(name),
     url='http://kivy.org/docs/api-kivy.garden.html',
     license='MIT',
     namespace_packages=['kivy', 'kivy.garden'],
